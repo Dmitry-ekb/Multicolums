@@ -33,12 +33,13 @@ section p {
   margin-top: 0;  
 }
 section p img {
-  max-width: 30%;
+  max-width: 15%;
   height: auto;
   border-radius: 16px;
   margin: 0 auto;
   vertical-align: middle;
 }
+
 
 
 
